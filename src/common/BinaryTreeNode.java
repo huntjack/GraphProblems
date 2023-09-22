@@ -1,3 +1,5 @@
+package common;
+
 public class BinaryTreeNode {
     private int key;
     private BinaryTreeNode left;

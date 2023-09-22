@@ -1,3 +1,5 @@
+package common;
+
 public class BalancePartialResult {
     private int height;
     private boolean isBalanced;

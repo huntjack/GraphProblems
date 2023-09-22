@@ -1,3 +1,5 @@
+package common;
+
 import java.util.LinkedList;
 
 public class BasicNode<T> {

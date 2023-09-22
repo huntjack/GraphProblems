@@ -1,3 +1,5 @@
+import common.BinaryTreeNode;
+
 public class MinimalTree {
     public static BinaryTreeNode createMinimalTree(int[] intArray) {
         BinaryTreeNode rootNode = new BinaryTreeNode();
