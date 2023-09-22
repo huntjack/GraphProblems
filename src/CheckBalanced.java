@@ -1,3 +1,6 @@
+import common.BalancePartialResult;
+import common.BinaryTreeNode;
+
 public class CheckBalanced {
     private static BalancePartialResult checkBalance(BinaryTreeNode node) {
         if(node == null) {

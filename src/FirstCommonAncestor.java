@@ -1,3 +1,6 @@
+import common.BinaryTreeNode;
+import common.BinaryTreeNodeWithParent;
+
 import java.util.Optional;
 
 public class FirstCommonAncestor {

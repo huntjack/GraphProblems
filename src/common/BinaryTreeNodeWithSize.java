@@ -1,3 +1,5 @@
+package common;
+
 public class BinaryTreeNodeWithSize {
     private int key;
     private int size = 0;

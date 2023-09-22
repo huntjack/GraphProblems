@@ -1,3 +1,4 @@
+import common.BinaryTreeNode;
 
 public class ValidateBst {
     public static boolean validateBst(BinaryTreeNode node) {

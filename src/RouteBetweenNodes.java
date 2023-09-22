@@ -1,3 +1,5 @@
+import common.BasicNode;
+
 import java.util.*;
 
 public class RouteBetweenNodes<T> {

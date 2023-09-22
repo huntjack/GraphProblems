@@ -1,3 +1,4 @@
+import common.BinaryTreeNode;
 
 public class PathsWithSum {
     public static int getPathsWithSumBruteForce(BinaryTreeNode root, int target) {
